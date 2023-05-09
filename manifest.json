@@ -21,7 +21,8 @@
         },
         "psycopg2": {
             "python3.7-psycopg2-2.8.5_x86_64.tar.gz": "psycopg2/python3.7-psycopg2-2.8.5_x86_64.tar.gz",
-            "python3.9-psycopg2-2.8.5_arm64.tar.gz": "psycopg2/python3.9-psycopg2-2.8.5_arm64.tar.gz"
+            "python3.9-psycopg2-2.8.5_arm64.tar.gz": "psycopg2/python3.9-psycopg2-2.8.5_arm64.tar.gz",
+            "python3.8-psycopg2-2.8.5_arm64.tar.gz": "psycopg2/python3.8-psycopg2-2.8.5_arm64.tar.gz"
         }
     }
 }
