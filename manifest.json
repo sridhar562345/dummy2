@@ -28,7 +28,8 @@
         },
         "pycrypto": {
             "python3.7-pycrypto-2.6.1_x86_64.tar.gz": "pycrypto/python3.7-pycrypto-2.6.1_x86_64.tar.gz",
-            "python3.10-pycrypto-2.6.1_arm64.tar.gz": "pycrypto/python3.10-pycrypto-2.6.1_arm64.tar.gz"
+            "python3.10-pycrypto-2.6.1_arm64.tar.gz": "pycrypto/python3.10-pycrypto-2.6.1_arm64.tar.gz",
+            "python3.10-pycrypto-2.6.1_x86_64.tar.gz": "pycrypto/python3.10-pycrypto-2.6.1_x86_64.tar.gz"
         },
         "psycopg2": {
             "python3.7-psycopg2-2.8.5_x86_64.tar.gz": "psycopg2/python3.7-psycopg2-2.8.5_x86_64.tar.gz",
