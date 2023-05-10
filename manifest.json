@@ -19,7 +19,8 @@
         },
         "cffi": {
             "python3.7-cffi-1.15.0_x86_64.tar.gz": "cffi/python3.7-cffi-1.15.0_x86_64.tar.gz",
-            "python3.10-cffi-1.15.0_x86_64.tar.gz": "cffi/python3.10-cffi-1.15.0_x86_64.tar.gz"
+            "python3.10-cffi-1.15.0_x86_64.tar.gz": "cffi/python3.10-cffi-1.15.0_x86_64.tar.gz",
+            "python3.10-cffi-1.15.0_arm64.tar.gz": "cffi/python3.10-cffi-1.15.0_arm64.tar.gz"
         },
         "pycrypto": {
             "python3.7-pycrypto-2.6.1_x86_64.tar.gz": "pycrypto/python3.7-pycrypto-2.6.1_x86_64.tar.gz"
