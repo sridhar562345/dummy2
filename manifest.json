@@ -2,7 +2,8 @@
     "v1": {
         "regex": {
             "python3.7-regex-2022.3.2_x86_64.tar.gz": "regex/python3.7-regex-2022.3.2_x86_64.tar.gz",
-            "python3.10-regex-2022.3.2_arm64.tar.gz": "regex/python3.10-regex-2022.3.2_arm64.tar.gz"
+            "python3.10-regex-2022.3.2_arm64.tar.gz": "regex/python3.10-regex-2022.3.2_arm64.tar.gz",
+            "python3.10-regex-2022.3.2_x86_64.tar.gz": "regex/python3.10-regex-2022.3.2_x86_64.tar.gz"
         },
         "cryptography": {
             "python3.7-cryptography-36.0.1_x86_64.tar.gz": "cryptography/python3.7-cryptography-36.0.1_x86_64.tar.gz",
